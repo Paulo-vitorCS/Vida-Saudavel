@@ -12,7 +12,10 @@ Este é o projeto final desenvolvido para a disciplina de Programação Orientad
 - Mostrar um relatório de calorias gastas e consumidas em um determinado período, assim como IMC do usuário.
 ## Layout
 #### Desktop Screenshot
-![](/VidaSaudavel/public/imagens/TelaInicial.png) ![](/VidaSaudavel/public/imagens/TelaSelecao.png)
-![](/VidaSaudavel/public/imagens/TelaTreino.png) ![](/VidaSaudavel/public/imagens/TelaIniciarTreino.png)
+![](/VidaSaudavel/public/imagens/TelaInicial.png)       ![](/VidaSaudavel/public/imagens/TelaSelecao.png)
+![](/VidaSaudavel/public/imagens/telaTreino.png)        ![](/VidaSaudavel/public/imagens/TelaIniciarTreino.png)
+  ![](/VidaSaudavel/public/imagens/telatreino1.png)     ![](/VidaSaudavel/public/imagens/telaTreino2.png)
+![](/VidaSaudavel/public/imagens/TelaAlimentação.png)   ![](/VidaSaudavel/public/imagens/telaUsuario.png)
+![](/VidaSaudavel/public/imagens/telaRelatório.png)
 ## Licença 
 Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
