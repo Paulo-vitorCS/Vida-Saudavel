@@ -1,0 +1,10 @@
+Toque de Calcanhar;Abdômen;10;2;100;false;
+Flexão Inclinada;Peitoral;10;5;200;false;
+Rosca Bíceps;Braços;10;2;100;false;
+Afundo Comum;Pernas;20;3;200;false;
+Ombro com Halter;Costas e Ombros;10;2;100;false;
+Prancha Mergulho de Quadril;Abdômen;10;2;200;false;
+Supino com Halteres;Peitoral;15;5;300;false;
+Afundar Tríceps;Braços;12;4;300;false;
+Afundo Elevado;Pernas;10;5;400;false;
+Levantar Halteres;Costas e Ombros;10;2;400;false;

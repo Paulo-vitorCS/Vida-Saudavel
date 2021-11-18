@@ -1,0 +1,1 @@
+Padrão;25;80.0;190.0;Masculino;Iniciante
