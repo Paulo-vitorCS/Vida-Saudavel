@@ -11,6 +11,7 @@ Este é o projeto final desenvolvido para a disciplina de Programação Orientad
 - Armazenar informações de treino e alimentação realizadas pelo usuário.
 - Mostrar um relatório de calorias gastas e consumidas em um determinado período, assim como IMC do usuário.
 ## Layout
+Aqui se encontra uma breve visualização da aplicação.
 #### Desktop Screenshot
 ![](/VidaSaudavel/public/imagens/TelaInicial.png)       ![](/VidaSaudavel/public/imagens/TelaSelecao.png)
 ![](/VidaSaudavel/public/imagens/telaTreino.png)        ![](/VidaSaudavel/public/imagens/TelaIniciarTreino.png)
