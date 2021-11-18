@@ -3,8 +3,8 @@ Este é o projeto final desenvolvido para a disciplina de Programação Orientad
 #### Equipe
 - Gabriela Santos Damazo 
 - Kemuel Santos Peres
-- [Paulo Vitor Costa Silva](https://github.com/Paulo-vitorCS) - [LinkedIn](https://www.linkedin.com/in/paulo-vitor-costa/)
-- [Pedro Henrique Resende Ribeiro](https://github.com/pedro-hr-resende)
+- [Paulo Vitor Costa Silva](https://github.com/Paulo-vitorCS)  |  [LinkedIn](https://www.linkedin.com/in/paulo-vitor-costa/)
+- [Pedro Henrique Resende Ribeiro](https://github.com/pedro-hr-resende)  |  [LinkedIn](https://www.linkedin.com/in/pedro-hr-resende/)
 - [Pedro Lima Guarnieri](https://github.com/PedroGuarnieri2108)
 #### Funcionalidades
 - Cadastrar algumas informações básica do usuário.
@@ -12,6 +12,6 @@ Este é o projeto final desenvolvido para a disciplina de Programação Orientad
 - Mostrar um relatório de calorias gastas e consumidas em um determinado período, assim como IMC do usuário.
 ## Layout
 #### Desktop Screenshot
-![](/VidaSaudavel/public/imagens/TelaInicial.png)
+![Tela Inicial](/VidaSaudavel/public/imagens/TelaInicial.png)
 ## Licença 
 Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
